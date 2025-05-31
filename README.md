@@ -2,10 +2,9 @@
 
 **DevOps & Cloud Engineer | Azure | Terraform | CI/CD | Docker | Kubernetes**
 
-📞 9654943313  
+
 📧 [sanidhya.vats@outlook.com](mailto:sanidhya.vats@outlook.com)  
 🔗 [GitHub](https://github.com/Sanidhya-Vats) | [LinkedIn](https://www.linkedin.com/in/sanidhya-vats)  
-🧾 Hash ID: 29904b263  
 
 ---
 

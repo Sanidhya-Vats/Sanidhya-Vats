@@ -1,4 +1,4 @@
-# 👨‍💻 Sanidhya Vats
+# Hi I'm 👨‍💻 Sanidhya Vats
 
 **DevOps & Cloud Engineer | Azure | Terraform | CI/CD | Docker | Kubernetes**
 

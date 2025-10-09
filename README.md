@@ -3,7 +3,7 @@
 **FreeLancer |DevOps & Cloud Engineer | Azure | Terraform | CI/CD | Docker | Kubernetes | Oracle | Linux 🐧 | Git 🐙 | Python & PowerShell Scripting 💻 |Prometheus 🔥 | Grafana 🎨 & Loki 📜**
 
 📧 [sanidhya.vats@outlook.com](mailto:sanuvats88@gmail.com)  
-🔗 [GitHub](https://github.com/Sanidhya-Vats) | [LinkedIn](https://www.linkedin.com/in/sanidhya-vats)  
+🔗 [GitHub](https://github.com/Sanidhya-Vats) | [LinkedIn](www.linkedin.com/in/sanidhya-vats-29904b263)  
 
 ---
 
@@ -91,7 +91,7 @@ Feel free to reach out to discuss your project needs or job opportunities!
 ---
 
 ## 📫 Let's Connect!
-👉 [LinkedIn](https://www.linkedin.com/in/sanidhya-vats)  
+👉 [LinkedIn](www.linkedin.com/in/sanidhya-vats-29904b263)  
 👉 [GitHub](https://github.com/Sanidhya-Vats)  
 📧 [Email](mailto:sanuvats88@gmail.com)  
 

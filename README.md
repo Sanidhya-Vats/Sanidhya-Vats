@@ -1,6 +1,6 @@
 # Hi I'm 👨‍💻 Sanidhya Vats
 
-**DevOps & Cloud Engineer | Azure | Terraform | CI/CD | Docker | Kubernetes**
+**FreeLancer |DevOps & Cloud Engineer | Azure | Terraform | CI/CD | Docker | Kubernetes | Oracle | Linux 🐧 | Git 🐙 | Python & PowerShell Scripting 💻 |Prometheus 🔥 | Grafana 🎨 & Loki 📜**
 
 📧 [sanidhya.vats@outlook.com](mailto:sanuvats88@gmail.com)  
 🔗 [GitHub](https://github.com/Sanidhya-Vats) | [LinkedIn](https://www.linkedin.com/in/sanidhya-vats)  

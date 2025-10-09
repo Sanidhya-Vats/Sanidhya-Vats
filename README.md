@@ -2,8 +2,7 @@
 
 **DevOps & Cloud Engineer | Azure | Terraform | CI/CD | Docker | Kubernetes**
 
-
-📧 [sanidhya.vats@outlook.com](mailto:sanidhya.vats@outlook.com)  
+📧 [sanidhya.vats@outlook.com](mailto:sanuvats88@gmail.com)  
 🔗 [GitHub](https://github.com/Sanidhya-Vats) | [LinkedIn](https://www.linkedin.com/in/sanidhya-vats)  
 
 ---
@@ -64,6 +63,13 @@ I'm a DevOps & Cloud Engineer with **1+ year of hands-on experience**, specializ
 
 ---
 
+## 🎓 Certifications
+
+- 🟦 [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/SanidhyaVats-5534/7F1BD50F3356151D?sharingId)  
+- 🟧 [**Oracle Cloud Infrastructure 2025 Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=138EE9FB5777011DE2502045CA48D15A0C5615BD7535F0D99A027D519E320909)
+
+---
+
 ## 💬 Open to Work
 
 I am actively **seeking new freelance DevOps projects** or a **full-time opportunity** where I can contribute to infrastructure automation, CI/CD enablement, and cloud-native application delivery.
@@ -87,7 +93,7 @@ Feel free to reach out to discuss your project needs or job opportunities!
 ## 📫 Let's Connect!
 👉 [LinkedIn](https://www.linkedin.com/in/sanidhya-vats)  
 👉 [GitHub](https://github.com/Sanidhya-Vats)  
-📧 [Email](mailto:sanidhya.vats@outlook.com)  
+📧 [Email](mailto:sanuvats88@gmail.com)  
 
 ---
 
